@@ -6,3 +6,7 @@ The data directory contains data used in the analysis. This is treated as read o
 
 
 Data Url: [Data](https://drive.google.com/file/d/1_9ttC6SRHrC1b3TLPUkjvenlHoJIy0GK/view?usp=share_link)
+
+
+
+> Please notice that, after you download the `cvs` file from above link, you need to apply this `cvs` and the `juypter` into the same folder, so that you can open it from `juypter`. 
