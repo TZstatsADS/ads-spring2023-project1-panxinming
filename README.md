@@ -9,8 +9,8 @@ This is the first and only *individual* (as opposed to *team*) project this seme
 
 Term: Spring 2023
 
-+ Projec title: How to Speak Like Philosopher
-+ This project is conducted by [Xinming Pan]
++ Projec title: **How to Speak Like Philosopher**
++ This project is conducted by [***Xinming Pan***]
 
 + Project summary: Philosophy may be abstract to someone, so can we speak like philosophers? The answer is **Yes**. We don't need to learn what is philosophy and the background. We just need to do the `EDA` to analyze how philosophers speak. What's more, we are going to use a more advanced technology method, Markov Model, to simulate the sentence of philosophers. Finally, we can become a 'true' philosopher.
 
